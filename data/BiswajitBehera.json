@@ -1,0 +1,19 @@
+{
+  "name": "Biswajit Behera",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Coder, Blogger, college student",
+  "avatar": "https://github.com/Biswajit-Behera.png",
+  "links": [
+    {
+      "name": "Let's connect on Twitter",
+      "url": "https://twitter.com/biswajitstweet",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Let's connect on LinkedIn",
+      "url": "https://www.linkedin.com/in/biswajit-behera-44450b220/",
+      "icon": "FaLinkedin"
+    }
+  ]
+}
